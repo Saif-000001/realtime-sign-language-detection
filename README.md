@@ -9,7 +9,7 @@ This project is a Realtime-Sign-Language-Detection that contains the backend cod
 ![processed_hello](https://github.com/user-attachments/assets/06c0744a-917a-491d-abe7-0f988497fdae)
 
 ## 📚 Project Showcase
-[![Realtime Sign Language Detection](https://youtu.be/4iQBZ6NNzMc?si=y-4NhZNggZD10v4H/Realtime_Sign_Language_Detection.png)](https://youtu.be/4iQBZ6NNzMc?si=y-4NhZNggZD10v4H)
+[![Watch the video](https://youtu.be/4iQBZ6NNzMc?si=y-4NhZNggZD10v4H/maxresdefault.jpg)](https://youtu.be/4iQBZ6NNzMc?si=y-4NhZNggZD10v4H)
 
 
 ### Key Technologies:
