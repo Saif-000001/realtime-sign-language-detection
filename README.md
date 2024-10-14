@@ -10,7 +10,8 @@ This project is a Realtime-Sign-Language-Detection that contains the backend cod
 
 ### 📽️ Working Video Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4iQBZ6NNzMc" frameborder="0" allowfullscreen></iframe>
+### 📽️ Working Video Demonstration
+[![Watch the video](URL_to_your_thumbnail_image)](https://www.youtube.com/watch?v=4iQBZ6NNzMc&t=4s)
 
 
 ### Key Technologies:
