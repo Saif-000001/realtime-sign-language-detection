@@ -10,7 +10,7 @@ This project is a Realtime-Sign-Language-Detection that contains the backend cod
 ![Processed Hello](https://github.com/user-attachments/assets/06c0744a-917a-491d-abe7-0f988497fdae)
 
 ### 📽️ Working Video Demonstration
-[![Watch the video](https://github.com/user-attachments/assets/7c10c077-4dd7-4743-8b0a-78d7868fe8e7)](https://www.youtube.com/watch?v=4iQBZ6NNzMc&t=4s)
+[![Watch the video](https://github.com/user-attachments/assets/e750cab4-53b1-432c-b182-488b02942a00)](https://www.youtube.com/watch?v=4iQBZ6NNzMc&t=4s)
 
 
 
