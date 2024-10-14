@@ -2,7 +2,8 @@
 # 🖐️ Realtime-Sign-Language-Detection
 
 ## 🚀 Project Overview
-This project is a Realtime-Sign-Language-Detection that identifies various sign language gestures using a machine learning model. It includes both a FastAPI backend for handling sign recognition and a React + Vite frontend for user interaction and real-time detection via webcam input.
+This project is a Realtime-Sign-Language-Detection that contains the backend code for the Sign Language Detection application, implemented using FastAPI. It features MediaPipe for hand landmark detection and a trained machine learning model for sign recognition. The application supports both image uploads and live webcam feed for real-time sign language detection.
+
 
 ### Key Technologies:
 - **Backend:** FastAPI
@@ -12,7 +13,7 @@ This project is a Realtime-Sign-Language-Detection that identifies various sign 
 - **Deployment:** Docker for containerization
 
 ## 🛠️ Setup and Installation
-Follow these steps to set up and run the Sign Language Detection application locally.
+Follow these steps to set up and run the Realtime-Sign-Language-Detection locally.
 
 ## Project Structure
 ```plaintext
@@ -73,7 +74,7 @@ First, clone the repository from GitHub:
 git clone https://github.com/Saif-000001/Realtime-Sign-Language-Detection.git
 cd Realtime-Sign-Language-Detection
 ```
-Open your project in Visual Studio Code, then open a new terminal. In the terminal, navigate to the frontend directory using the command `cd frontend`, and then install the project dependencies by running `npm install`. 
+Open your project a new terminal. In the terminal, navigate to the frontend directory using the command `cd frontend`, and then install the project dependencies by running `npm install`. 
 
 #### 2. Build and Run the Docker Containers
 
@@ -94,16 +95,18 @@ docker-compose down -v
 ```
 
 ## 🧠 Key Learnings
-- FastAPI for creating a Python backend that handles real-time image processing.
-- React + Vite for building the user interface with a focus on real-time detection.
-- Machine Learning: Model training using RandomForestClassifier for classifying sign language gestures.
-- Docker containerization of the application for consistent deployment across environments.
+- Data collection and preprocessing techniques for machine learning.
+- Model training and optimization strategies.
+- Building efficient backend services with FastAPI.
+- Creating dynamic frontend applications with React.
+- Basics of Docker for application containerization.
+- Understanding end-to-end project architecture and data flow.
 
 ## 💡 Challenges Overcome
-- Dataset quality and quantity balancing during model training.
-- Seamless integration of the machine learning model with the web interface.
-- Achieving real-time communication between the frontend and backend services.
-- Deploying the entire system using Docker for reproducibility.
+- Balancing dataset quality and quantity.
+- Integrating the machine learning model with the web application.
+- Implementing real-time communication between the frontend and backend.
+- Ensuring consistent deployment across different environments.
 
 ## 🙏 Acknowledgements
 I’m grateful for the support from various online communities, tutorials, and documentation resources that helped me throughout this project!
