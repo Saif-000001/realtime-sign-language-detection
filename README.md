@@ -5,13 +5,12 @@
 This project is a Realtime-Sign-Language-Detection that contains the backend code for the Sign Language Detection application, implemented using FastAPI. It features MediaPipe for hand landmark detection and a trained machine learning model for sign recognition. The application supports both image uploads and live webcam feed for real-time sign language detection to text.
 
 ## Image Detection
-![hello](https://github.com/user-attachments/assets/7c10c077-4dd7-4743-8b0a-78d7868fe8e7)
-![processed_hello](https://github.com/user-attachments/assets/06c0744a-917a-491d-abe7-0f988497fdae)
+
+![Hello Image](https://github.com/user-attachments/assets/7c10c077-4dd7-4743-8b0a-78d7868fe8e7)
+![Processed Hello](https://github.com/user-attachments/assets/06c0744a-917a-491d-abe7-0f988497fdae)
 
 ### 📽️ Working Video Demonstration
-
-### 📽️ Working Video Demonstration
-[![Watch the video]([URL_to_your_thumbnail_image](https://github.com/user-attachments/assets/7c10c077-4dd7-4743-8b0a-78d7868fe8e7))](https://www.youtube.com/watch?v=4iQBZ6NNzMc&t=4s)
+[![Watch the video](https://github.com/user-attachments/assets/7c10c077-4dd7-4743-8b0a-78d7868fe8e7)](https://www.youtube.com/watch?v=4iQBZ6NNzMc&t=4s)
 
 
 ### Key Technologies:
