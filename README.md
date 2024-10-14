@@ -11,7 +11,7 @@ This project is a Realtime-Sign-Language-Detection that contains the backend cod
 ### 📽️ Working Video Demonstration
 
 ### 📽️ Working Video Demonstration
-[![Watch the video](URL_to_your_thumbnail_image)](https://www.youtube.com/watch?v=4iQBZ6NNzMc&t=4s)
+[![Watch the video]([URL_to_your_thumbnail_image](https://github.com/user-attachments/assets/7c10c077-4dd7-4743-8b0a-78d7868fe8e7))](https://www.youtube.com/watch?v=4iQBZ6NNzMc&t=4s)
 
 
 ### Key Technologies:
